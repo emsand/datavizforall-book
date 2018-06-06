@@ -1,4 +1,4 @@
-output_dir: "_docs"
+output_dir: "docs"
 book_filename: "Dougherty-etal-Data-Visualization-for-All"
 edit: https://github.com/datavizforall/datavizforall-book/edit/master/%s
 ui:
