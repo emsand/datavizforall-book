@@ -22,7 +22,7 @@ output:
     css: css/style.css
     includes:
       in_header: google-analytics-datavizforall-com.html
-    split_by: rmd
+    split_by: chapter
     split_bib: true
     number_sections: true
     config:
