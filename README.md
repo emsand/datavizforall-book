@@ -1,3 +1,3 @@
 # datavizforall-book  
 
-testing bookdown
+testing bookdown on GitHub Pages with custom domain: <https://datavizforall.com>

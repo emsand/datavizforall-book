@@ -40,6 +40,8 @@ output:
         facebook: yes
         github: yes
         twitter: yes
+      includes:
+        after_body: google-analytics-datavizforall-com.html
 
 
   bookdown::pdf_book: default
