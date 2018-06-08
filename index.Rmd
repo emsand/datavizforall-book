@@ -20,6 +20,8 @@ output:
   bookdown::gitbook:
     dev: svglite
     css: css/style.css
+    includes:
+      in_header: google-analytics-datavizforall-com.html
     split_by: rmd
     split_bib: true
     number_sections: true
@@ -40,9 +42,6 @@ output:
         facebook: yes
         github: yes
         twitter: yes
-      includes:
-        after_body: google-analytics-datavizforall-com.html
-
 
   bookdown::pdf_book: default
 
