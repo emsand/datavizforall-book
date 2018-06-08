@@ -1,10 +1,9 @@
 ---
 lang: "en"
-title: "Bookdown test"
+title: "TEST DataVizForAll Book"
 subtitle: "subtitle goes here"
 author: "Jack Dougherty and contributors"
 twitter-handle: doughertyjack
-date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 site: bookdown::bookdown_site
 documentclass: book
@@ -49,17 +48,8 @@ output:
     dev: svglite
     stylesheet: css/style.css
 ---
-# About the book {-}
+# Preface {-}
 
-This is a test book
+This book-in-progress was last updated on: date: `r Sys.Date()`
 
-**License**
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-
-
-**How to cite**: insert here
-
-All text and code for this book is available on [GitHub](https://github.com/datavizforall/datavizforall-book).  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+Add short description here. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
